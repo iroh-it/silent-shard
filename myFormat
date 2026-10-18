@@ -1,0 +1,14 @@
+{
+    "phia" : 0,
+    "info": {
+    "step": 0,
+    "place": 0,
+    "count": 0
+    },
+    "steps": {
+        "1": {
+        "val": 1, 
+        "vals": [1]
+        }
+    },
+}
